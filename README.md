@@ -9,12 +9,11 @@ It demonstrates the **complete data workflow**:
 
 ### Project Folders
 
-- **Initial commit** – Setup of the repository and project structure with starter files.  
-- **Data Modeling** – Creating predictive and descriptive models to analyze job data.  
+- **Web Scraping** – Scripts for collecting job postings automatically from Wuzzuf using Python libraries.
 - **Data Cleaning** – Scripts for cleaning, preprocessing, and organizing raw datasets.  
+- **Data Modeling** – Creating predictive and descriptive models to analyze job data.  
 - **Data Inspection** – Exploring the datasets to detect patterns, inconsistencies, and missing data.  
 - **EDA & Data Visualization** – Visualizing insights with charts and graphs to identify trends in jobs, locations, companies, and required skills.  
-- **Web Scraping** – Scripts for collecting job postings automatically from Wuzzuf using Python libraries.  
 
 ---
 ## Key Highlights
