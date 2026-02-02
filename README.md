@@ -1,10 +1,11 @@
-## Wuzzaf
 ![Wuzzuf](Wuzzuf.png)
 
 ## Overview
 
 This project explores **job postings data from Wuzzuf** to uncover trends in the job market.  
 It demonstrates the **complete data workflow**:
+
+---
 
 ### Project Folders
 
@@ -21,19 +22,24 @@ It demonstrates the **complete data workflow**:
 - 🔹 Complete workflow: from scraping to visualization  
 - 🔹 Insightful EDA to understand job market patterns  
 - 🔹 Clean and structured datasets ready for analysis  
-- 🔹 Reusable scripts for future job data projects 
+- 🔹 Reusable scripts for future job data projects
+
+---
 
 ## Technologies Used 🛠️
 
 **Programming & Notebooks:**  
 - Python 🐍  
-- Jupyter Notebook 📓  
+- Jupyter Notebook 📓
+- 
 **Data Handling & Analysis:**  
-- Pandas & NumPy 📊  
+- Pandas & NumPy 📊
+-   
 **Web Scraping:**  
 - BeautifulSoup 🍲  
 - Requests 🌐  
-- Selenium 🤖  
+- Selenium 🤖
+  
 **Visualization:**  
 - Matplotlib 📈  
 - Seaborn 📉  
